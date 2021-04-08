@@ -28,6 +28,11 @@ const questions = [
         type: 'input',
         name: 'guidelines',
         message: 'Enter contribution guidelines.',
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'Enter test instructions.',
     }
 ];
 
