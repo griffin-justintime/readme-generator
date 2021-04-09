@@ -18,10 +18,10 @@ function generateMarkdown(data) {
 ## License Badge
 
 ## Description
-    # ${data.description}
+    ${data.description}
 
 ## Table of Contents
-    #Installation link
+    #<a name="Installation></a>
     #Usage link
     #License link
     #Contributing link
@@ -29,21 +29,27 @@ function generateMarkdown(data) {
     #Questions
 
 ## Installation
+    ${data.installation}
 
 ## Usage
+    ${data.usage}
 
 ## License
+    ${data.license}
 
 ## Contributing
+    ${data.guidelines}
 
 ## Tests
+    ${data.test}
 
 ## Questions
-    # GitHub username/profile link
+    Github: ${data.github}
 
-    # Contact: email address
+    Contact: ${data.email}
+
+`;
 }
 
 module.exports = generateMarkdown;
-`;
-}
+

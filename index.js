@@ -37,7 +37,7 @@ const questions = [
         message: 'Enter test instructions:',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Choose a license:',
         choices: ['Apache', 'GPL','MIT'],
