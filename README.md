@@ -1,37 +1,39 @@
 
-# d
+# README
 
 ## License Badge
-![license](https://img.shields.io/badge/license-Apache-green)
+![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-    d
+    Generates a README
 
 ## Table of Contents
     [Installation](#installation)
     [Usage](#usage)
-    [License](#license)
+    [License](#License)
     [Contributing](#contributing)
     [Tests](#tests)
     [Questions](#questions)
 
 ## Installation
-    d
+    Install Inquirer.
 
 ## Usage
-    d
+    README
 
 ## License
     undefined
 
 ## Contributing
-    d
+    Whatever you like on GitHub
 
 ## Tests
-    d
+    Testing
 
 ## Questions
-    Github: d
+    Github: griffin.justime
 
-    Contact: d
+    Contact: griffin.justintime@gmail.com
+
+![GIF](./README.gif)
 
